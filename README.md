@@ -1,0 +1,2 @@
+# Sql-commands
+DDL comands
